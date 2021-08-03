@@ -1,6 +1,8 @@
 const number = Math.floor(Math.random()*100)
 const number1 = Math.floor(Math.random()*1000)
 
+alert(number)
+
 if(number< 99){
     console.log(number+2)
     alert("59")
